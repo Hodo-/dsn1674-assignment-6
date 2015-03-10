@@ -1,1 +1,80 @@
+html {
+	background-color: white;
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.blue-box {
+	border: solid 200px #2c3950;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	font-family: 'Contrail One', cursive;
+	color: white;
+	font-size: 3rem;
+	clear: both;
+	text-align: center;
+	color: white;
+	background-color: #1a2230;
+	padding: 1em 0em 1em 0em;
+	margin: 0;
+}
+
+
+.left-head {
+	width: 35%;
+	padding: 0;
+	margin: 0;
+	position: relative;
+	bottom: 985px;
+	left: 90px;
+}
+
+.right-head {
+	width: 35%;
+	padding: 0;
+	margin: 0;
+	position: relative;
+	bottom: 1274.8px;
+	left: 300px;
+}
+
+
+.body {
+	width: 90%;
+	padding: 0;
+	margin: 0;
+	position: relative;
+	bottom: 469px;
+	left: 30px;
+
+}
+
+.brain {
+	width: 13%;
+	padding: 0;
+	margin: 0;
+	position: relative;
+	bottom: 815px;
+	left: 262px;
+}
+
+a.a-left:hover {
+	padding: 0;
+	margin: 0;
+	position: relative;
+	bottom: 985px;
+	left: 60px;
+
+}
 
